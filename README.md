@@ -12,3 +12,4 @@
  <br /> growthkineticsfitting fits the ASL model growth function
  
  <br /> The scripts are run using MATLAB.
+Codes written by Ariel Y. H. Chua,  G. Y. Tan in collaboration with Eunice W. Q. Yeap , David M. Walker , Joel M. Hawkins , Saif A. Khan 
